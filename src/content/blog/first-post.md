@@ -1,8 +1,8 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
+title: "Boredom"
+description: "Nothing to see here"
 pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Heil Hitler
+Im bored out of my fucking mind and nothign here makes sense
